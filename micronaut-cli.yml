@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.prefix
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, cache-hazelcast, data, data-jpa, discovery-eureka, github-workflow-docker-registry, http-client, java, java-application, jdbc-hikari, jib, junit, kubernetes, logback, lombok, management, maven, mockito, openapi, oracle, rabbitmq, readme, security-annotations, security-oauth2, shade, spring, spring-boot, spring-data-jpa, testcontainers, tomcat-server, yaml]
